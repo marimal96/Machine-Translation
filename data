@@ -1,1 +1,5 @@
+The data was downloaded from the WMT22 website. 
+For each language pair, there are multiple datasets available.
+For fr-de, all datasets were used — total: 17,975,604.
+For de-en, only the "Tilde-eesc-2017-deu-eng" dataset was used — 2,857,850.
 
